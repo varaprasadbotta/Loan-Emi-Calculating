@@ -1,6 +1,6 @@
 # App Structure
 src
-  - components
+- components
    - LoanForm.jsx
    - EMIDisplay.jsx
    - AmortizationTable.jsx
@@ -9,4 +9,4 @@ src
    - ExchangeRates.jsx
    - About.jsx
    - ErrorPage.jsx
- - App.jsx
+- App.jsx
