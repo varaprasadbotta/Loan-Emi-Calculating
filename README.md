@@ -1,8 +1,8 @@
 # App Structure
 src/
   components/
-    LoanForm.jsx
-    EMIDisplay.jsx
+   - LoanForm.jsx
+   - EMIDisplay.jsx
     AmortizationTable.jsx
     LoanCalculatorDashboard.jsx
     Header.jsx
